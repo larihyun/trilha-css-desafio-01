@@ -1,0 +1,32 @@
+@import url('reset.css');
+
+body { 
+    background-color: black;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #33A8DB;
+    font-weight: bold;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+
+p {
+    color: aliceblue;
+}
+
+section {
+    margin: 100px auto;
+}
+
+.banner {
+    background-image: linear-gradient(rgba (0, 0, 0, .6),
+    (49, 168, 221, .2), (0, 0, 0, .6)) url('../images/banner.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-top: 60px;
+    border-bottom: 1px solid #33A8DB80;
+}
