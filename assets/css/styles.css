@@ -18,12 +18,12 @@ h3 {
   color: #ffffff;
   margin-bottom: 10px;
   margin-right: 7%;
-  padding: 70px;
+  padding: 50px;
 }
 
 p {
   color: white;
-  font-size: 2rem;
+  font-size: 1.25rem;
 }
 
 section {
@@ -97,7 +97,7 @@ section {
 
 #course-content .modules-list {
   margin: 24px 0;
-  font-size: 2rem;
+  font-size: 1.75rem;
 }
 
 #course-content .modules-list .module {
