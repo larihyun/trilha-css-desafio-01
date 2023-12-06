@@ -81,7 +81,7 @@ section {
 
 .banner .banner-content button {
   color: #31A8DD;
-  font-size: 1rem;
+  font-size: 1.75rem;
   font-weight: bold;
   padding: 16px 30px;
   text-transform: uppercase;
@@ -97,7 +97,7 @@ section {
 
 #course-content .modules-list {
   margin: 24px 0;
-  font-size: 0.80rem;
+  font-size: 1.75rem;
 }
 
 #course-content .modules-list .module {
