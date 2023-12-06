@@ -136,7 +136,7 @@ section {
 
 #professional-challenges {
   text-align: center;
-  width: 900px;
+  width: autopx;
   height: 300px;
 }
 
