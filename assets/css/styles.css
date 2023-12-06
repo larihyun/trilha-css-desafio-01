@@ -91,7 +91,7 @@ section {
 }
 
 #course-content {
-  width: 800px;
+  width: auto;
   text-align: center;
 }
 
@@ -102,7 +102,7 @@ section {
 
 #course-content .modules-list .module {
   color: white;
-  width: auto;
+  width: 600px;
   margin: 0 auto 20px;
   border: 1px solid #33A8DB;
   background-color: #252525;
@@ -136,12 +136,12 @@ section {
 
 #professional-challenges {
   text-align: center;
-  width: autopx;
+  width: auto;
   height: 300px;
 }
 
 #professional-challenges img {
-  width: 400px;
+  width: auto;
   float: left;
   border: transparent thin solid;
   margin-left: 7%;
