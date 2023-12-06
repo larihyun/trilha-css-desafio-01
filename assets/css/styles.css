@@ -106,7 +106,7 @@ section {
   margin: 0 auto 20px;
   border: 1px solid #33A8DB;
   background-color: #252525;
-  padding: 16px;
+  padding: 30px;
   border-radius: 100px;
   box-shadow: inset -5px 6px 8px rgba(0, 0, 0, .7);
 }
@@ -137,11 +137,11 @@ section {
 #professional-challenges {
   text-align: center;
   width: 900px;
-  height: 200px;
+  height: 400px;
 }
 
 #professional-challenges img {
-  width: 300px;
+  width: 500px;
   float: left;
   border: transparent thin solid;
   margin-left: 7%;
