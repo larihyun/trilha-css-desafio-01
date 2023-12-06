@@ -137,11 +137,11 @@ section {
 #professional-challenges {
   text-align: center;
   width: 900px;
-  height: 400px;
+  height: 300px;
 }
 
 #professional-challenges img {
-  width: 500px;
+  width: 300px;
   float: left;
   border: transparent thin solid;
   margin-left: 7%;
