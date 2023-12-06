@@ -5,7 +5,7 @@ body {
 }
 
 h2 {
-  font-size: 1.25rem;
+  font-size: 1.75rem;
   color: #33A8DB;
   font-weight: bold;
   letter-spacing: 4px;
@@ -14,7 +14,7 @@ h2 {
 }
 
 h3 {
-  font-size: 0.80rem;
+  font-size: 1rem;
   color: #ffffff;
   margin-bottom: 10px;
   margin-right: 7%;
@@ -23,7 +23,7 @@ h3 {
 
 p {
   color: white;
-  font-size: 0.50rem;
+  font-size: 0.70rem;
 }
 
 section {
@@ -81,7 +81,7 @@ section {
 
 .banner .banner-content button {
   color: #31A8DD;
-  font-size: 0.80rem;
+  font-size: 1rem;
   font-weight: bold;
   padding: 16px 30px;
   text-transform: uppercase;
